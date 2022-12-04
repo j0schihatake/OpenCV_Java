@@ -1,0 +1,1 @@
+сайт с описанием установки OpenCV: http://kos-development.blogspot.com/2015/08/opencv.html
